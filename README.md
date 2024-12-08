@@ -3,10 +3,39 @@
 ### 🚀 About Me
 I'm a **Front-End Engineer** passionate about crafting intuitive, responsive, and scalable web applications. With expertise in **React.js**, **Tailwind CSS**, and modern JavaScript, I aim to deliver seamless user experiences.
 
-### 🌟 Projects
-- **[Travel Outbound](https://traveloutbound.netlify.app/)**: A sleek, responsive travel services website.
-- **[Kitchen Art](https://thekitchenart.netlify.app/)**: A showcase of elegant and functional web design concepts.
-- **[Custom Component Library](https://github.com/umairahfodkar/component-library)**: Reusable React components for faster development.
+---
+
+### 🌟 Projects  
+Check out some of my best works:
+
+#### 🚗 **[Travel Outbound](https://traveloutbound.netlify.app/)**  
+*A sleek, responsive travel services website.*  
+Tech Stack:  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+</p>  
+
+#### 🍴 **[Kitchen Art](https://thekitchenart.netlify.app/)**  
+*A showcase of elegant and functional web design concepts.*  
+Tech Stack:  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js" />
+</p>  
+
+#### 🛠️ **[Custom Component Library](https://github.com/umairahfodkar/component-library)**  
+*Reusable React components for faster development.*  
+Tech Stack:  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+</p>  
+
+---
 
 ### 🛠️ Skills  
 #### **Languages & Frameworks**  
@@ -38,11 +67,14 @@ I'm a **Front-End Engineer** passionate about crafting intuitive, responsive, an
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
+---
+
 ### 📫 Connect with Me
 - **LinkedIn**: [linkedin.com/in/umairah-fodkar-0b68751b5](https://www.linkedin.com/in/umairah-fodkar-0b68751b5/)
 - **Portfolio**: [thekitchenart.netlify.app](https://thekitchenart.netlify.app/)
 - **Email**: [umairahfodkar@gmail.com](mailto:umairahfodkar@gmail.com)
 
+---
+
 ### ⚡ Fun Fact
 I enjoy designing interactive user interfaces and exploring new tools that make development efficient!
-
